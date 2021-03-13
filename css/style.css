@@ -4,6 +4,10 @@ body {
 	overflow-x: hidden;
 	background: #EEFFFF;
 }
+.row {
+	margin-left: 0!important;
+	margin-right: 0!important;
+}
 .menu-estilos {
 	position: relative;
 	width: 100%;
@@ -11,6 +15,7 @@ body {
 
 .header {
 	background-image: url(../img/iglesia.jpg);
+	background-attachment: fixed;
 	/* background-position-x: center;
 	background-position-y: 300px;
 	background-attachment: fixed; */
